@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Планировщик дел</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="note_text">Поле ввода</string>
+    <string name="note_details_title">Заметка</string>
+    <string name="save">Сохранить</string>
+    <string name="completed">Готово</string>
+</resources>
